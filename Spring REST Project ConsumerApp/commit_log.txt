@@ -1,3 +1,1 @@
 Initial commit
-Commit on 2024-02-25T08:57:27+05:30: Updated documentation
-Commit on 2024-02-27T20:27:52+05:30: Added new feature
