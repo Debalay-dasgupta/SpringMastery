@@ -1,11 +1,1 @@
 Initial commit
-Commit on 2024-03-01T15:45:30+05:30: Added new feature
-Commit on 2024-03-05T00:50:05+05:30: Added new feature
-Commit on 2024-03-07T08:43:03+05:30: Updated documentation
-Commit on 2024-03-14T03:23:42+05:30: Initial project setup
-Commit on 2024-03-14T04:00:20+05:30: Refactored code
-Commit on 2024-03-20T23:41:46+05:30: Updated documentation
-Commit on 2024-03-21T19:55:10+05:30: Refactored code
-Commit on 2024-03-29T04:19:54+05:30: Refactored code
-Commit on 2024-03-29T19:06:54+05:30: Added new feature
-Commit on 2024-04-02T22:38:11+05:30: Initial project setup
