@@ -8,3 +8,4 @@ Commit on 2024-02-28T16:02:50+05:30: Initial project setup
 Commit on 2024-03-04T21:55:52+05:30: Updated documentation
 Commit on 2024-03-08T07:43:55+05:30: Fixed bug in logic
 Commit on 2024-03-14T01:35:37+05:30: Fixed bug in logic
+Commit on 2024-03-15T16:43:00+05:30: Fixed bug in logic
