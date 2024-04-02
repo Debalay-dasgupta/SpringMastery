@@ -10,3 +10,4 @@ Commit on 2024-03-11T06:59:07+05:30: Initial project setup
 Commit on 2024-03-12T01:36:45+05:30: Refactored code
 Commit on 2024-03-18T12:30:17+05:30: Initial project setup
 Commit on 2024-03-26T23:15:37+05:30: Fixed bug in logic
+Commit on 2024-04-02T11:19:49+05:30: Fixed bug in logic
