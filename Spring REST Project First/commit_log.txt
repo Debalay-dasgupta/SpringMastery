@@ -2,3 +2,4 @@ Initial commit
 Commit on 2024-03-14T14:04:28+05:30: Added new feature
 Commit on 2024-03-18T05:53:53+05:30: Added new feature
 Commit on 2024-03-20T13:43:22+05:30: Initial project setup
+Commit on 2024-04-02T14:06:44+05:30: Updated documentation
