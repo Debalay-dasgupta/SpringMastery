@@ -1,7 +1,1 @@
 Initial commit
-Commit on 2024-02-26T05:23:55+05:30: Initial project setup
-Commit on 2024-02-26T10:51:27+05:30: Fixed bug in logic
-Commit on 2024-03-14T06:53:12+05:30: Added new feature
-Commit on 2024-03-27T05:30:11+05:30: Fixed bug in logic
-Commit on 2024-03-28T18:51:05+05:30: Refactored code
-Commit on 2024-04-01T14:03:12+05:30: Initial project setup
