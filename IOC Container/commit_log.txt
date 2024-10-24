@@ -1,1 +1,2 @@
 Initial commit
+Commit on 2024-10-25T00:25:33+05:30: Initial project setup
