@@ -5,3 +5,4 @@ Commit on 2024-04-21T23:12:44+05:30: Fixed bug in logic
 Commit on 2024-05-01T15:12:52+05:30: Added new feature
 Commit on 2024-05-04T01:46:48+05:30: Fixed bug in logic
 Commit on 2024-09-27T17:59:01+05:30: Updated documentation
+Commit on 2024-11-19T17:17:54+05:30: Updated documentation
