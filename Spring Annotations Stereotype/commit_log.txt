@@ -7,3 +7,4 @@ Commit on 2024-05-04T01:46:48+05:30: Fixed bug in logic
 Commit on 2024-09-27T17:59:01+05:30: Updated documentation
 Commit on 2024-11-19T17:17:54+05:30: Updated documentation
 Commit on 2025-01-29T22:51:54+05:30: Added new feature
+Commit on 2025-02-11T16:36:10+05:30: Initial project setup
