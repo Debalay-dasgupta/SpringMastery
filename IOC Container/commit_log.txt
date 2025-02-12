@@ -1,3 +1,4 @@
 Initial commit
 Commit on 2024-10-25T00:25:33+05:30: Initial project setup
 Commit on 2024-12-13T04:21:42+05:30: Updated documentation
+Commit on 2025-02-12T10:57:24+05:30: Initial project setup
