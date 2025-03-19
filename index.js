@@ -79,7 +79,7 @@ async function makeCommits() {
 
   // **Step 2: Define the date range**
   const startDate = moment("2024-02-18");
-  const endDate = moment("2024-04-05");
+  const endDate = moment("2025-03-15");
   const diff = endDate.diff(startDate, "seconds"); // Difference in seconds for random timestamp generation
 
   // **Step 3: Assign commits per folder**
